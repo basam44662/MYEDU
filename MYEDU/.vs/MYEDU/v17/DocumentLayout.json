@@ -1,0 +1,671 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|c:\\users\\basam\\onedrive\\desktop\\myedu\\myedu\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\ogrenciler.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\ogrenciler.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\ogrenciler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\ogrenciler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\mainform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\mainform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\kurslar.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\kurslar.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\kurslar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\kurslar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\ilerlemeler.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\ilerlemeler.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\ilerlemeler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\ilerlemeler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\ilerlemeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\ilerlemeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\formogrenciler.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\formogrenciler.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\formogrenciler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\formogrenciler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\formogrenciler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\formogrenciler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\formodeme.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\formodeme.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\formodeme.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\formodeme.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\formkurslar.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\formkurslar.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\formkurslar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\formkurslar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\formkurslar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\formkurslar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\formkayitlar.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\formkayitlar.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\formkayitlar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\formkayitlar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\formilerlemetakipcesi.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\formilerlemetakipcesi.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\formilerlemetakipcesi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\formilerlemetakipcesi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\formilerlemetakipcesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\formilerlemetakipcesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\formegitmenler.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\formegitmenler.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\formegitmenler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\formegitmenler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\formegitmenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\formegitmenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\egitmenler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\egitmenler.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\egitmenler.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\egitmenler.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\ui\\egitmenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:ui\\egitmenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\bl\\blogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:bl\\blogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\dl\\datalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:dl\\datalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\MYEDU.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MYEDU.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MYEDU||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5A6B3E1B-F6EB-4458-B476-ABEDE962525E}|MYEDU.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "Properties\\Settings.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:50:43.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:50:33.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OGRENCILER.resx",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\OGRENCILER.resx",
+              "RelativeDocumentMoniker": "UI\\OGRENCILER.resx",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\OGRENCILER.resx",
+              "RelativeToolTip": "UI\\OGRENCILER.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-26T19:49:43.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OGRENCILER.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\OGRENCILER.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\OGRENCILER.Designer.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\OGRENCILER.Designer.cs",
+              "RelativeToolTip": "UI\\OGRENCILER.Designer.cs",
+              "ViewState": "AQIAANIAAAAAAAAAAAAawLQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:49:04.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\MainForm.resx",
+              "RelativeDocumentMoniker": "UI\\MainForm.resx",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\MainForm.resx",
+              "RelativeToolTip": "UI\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-26T19:48:59.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\MainForm.Designer.cs",
+              "RelativeToolTip": "UI\\MainForm.Designer.cs",
+              "ViewState": "AQIAALcBAAAAAAAAAAAawJwBAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:48:02.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\Entity.cs",
+              "RelativeDocumentMoniker": "Entity.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\Entity.cs",
+              "RelativeToolTip": "Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:35:02.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-26T19:35:58.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:36:06.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:39:08.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-06-26T19:39:46.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "UI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\MainForm.cs [Design]",
+              "RelativeToolTip": "UI\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:48:00.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-26T19:39:44.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KURSLAR.resx",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\KURSLAR.resx",
+              "RelativeDocumentMoniker": "UI\\KURSLAR.resx",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\KURSLAR.resx",
+              "RelativeToolTip": "UI\\KURSLAR.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-26T19:47:59.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KURSLAR.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\KURSLAR.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\KURSLAR.Designer.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\KURSLAR.Designer.cs",
+              "RelativeToolTip": "UI\\KURSLAR.Designer.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAAAKcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:47:22.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ILERLEMELER.resx",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\ILERLEMELER.resx",
+              "RelativeDocumentMoniker": "UI\\ILERLEMELER.resx",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\ILERLEMELER.resx",
+              "RelativeToolTip": "UI\\ILERLEMELER.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-26T19:47:19.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ILERLEMELER.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\ILERLEMELER.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\ILERLEMELER.Designer.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\ILERLEMELER.Designer.cs",
+              "RelativeToolTip": "UI\\ILERLEMELER.Designer.cs",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAawKoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:46:43.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ILERLEMELER.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\ILERLEMELER.cs",
+              "RelativeDocumentMoniker": "UI\\ILERLEMELER.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\ILERLEMELER.cs [Design]",
+              "RelativeToolTip": "UI\\ILERLEMELER.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:46:41.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormOgrenciler.resx",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormOgrenciler.resx",
+              "RelativeDocumentMoniker": "UI\\FormOgrenciler.resx",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormOgrenciler.resx",
+              "RelativeToolTip": "UI\\FormOgrenciler.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-26T19:46:38.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormOdeme.resx",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormOdeme.resx",
+              "RelativeDocumentMoniker": "UI\\FormOdeme.resx",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormOdeme.resx",
+              "RelativeToolTip": "UI\\FormOdeme.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-26T19:46:08.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormOdeme.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormOdeme.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\FormOdeme.Designer.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormOdeme.Designer.cs",
+              "RelativeToolTip": "UI\\FormOdeme.Designer.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAawL0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:45:23.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormKurslar.resx",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormKurslar.resx",
+              "RelativeDocumentMoniker": "UI\\FormKurslar.resx",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormKurslar.resx",
+              "RelativeToolTip": "UI\\FormKurslar.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-26T19:45:20.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormKurslar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormKurslar.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\FormKurslar.Designer.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormKurslar.Designer.cs",
+              "RelativeToolTip": "UI\\FormKurslar.Designer.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAawK4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:44:30.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormKurslar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormKurslar.cs",
+              "RelativeDocumentMoniker": "UI\\FormKurslar.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormKurslar.cs [Design]",
+              "RelativeToolTip": "UI\\FormKurslar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:44:29.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormKayitlar.resx",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormKayitlar.resx",
+              "RelativeDocumentMoniker": "UI\\FormKayitlar.resx",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormKayitlar.resx",
+              "RelativeToolTip": "UI\\FormKayitlar.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-26T19:44:26.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormOgrenciler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormOgrenciler.cs",
+              "RelativeDocumentMoniker": "UI\\FormOgrenciler.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormOgrenciler.cs [Design]",
+              "RelativeToolTip": "UI\\FormOgrenciler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:40:13.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormOgrenciler.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormOgrenciler.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\FormOgrenciler.Designer.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormOgrenciler.Designer.cs",
+              "RelativeToolTip": "UI\\FormOgrenciler.Designer.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAawH8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:40:14.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormKayitlar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormKayitlar.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\FormKayitlar.Designer.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormKayitlar.Designer.cs",
+              "RelativeToolTip": "UI\\FormKayitlar.Designer.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAawHwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:43:48.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormIlerlemeTakipcesi.resx",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormIlerlemeTakipcesi.resx",
+              "RelativeDocumentMoniker": "UI\\FormIlerlemeTakipcesi.resx",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormIlerlemeTakipcesi.resx",
+              "RelativeToolTip": "UI\\FormIlerlemeTakipcesi.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-26T19:43:43.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormIlerlemeTakipcesi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormIlerlemeTakipcesi.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\FormIlerlemeTakipcesi.Designer.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormIlerlemeTakipcesi.Designer.cs",
+              "RelativeToolTip": "UI\\FormIlerlemeTakipcesi.Designer.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAawKYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:43:06.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormIlerlemeTakipcesi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormIlerlemeTakipcesi.cs",
+              "RelativeDocumentMoniker": "UI\\FormIlerlemeTakipcesi.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormIlerlemeTakipcesi.cs [Design]",
+              "RelativeToolTip": "UI\\FormIlerlemeTakipcesi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:43:05.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormEgitmenler.resx",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormEgitmenler.resx",
+              "RelativeDocumentMoniker": "UI\\FormEgitmenler.resx",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormEgitmenler.resx",
+              "RelativeToolTip": "UI\\FormEgitmenler.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-26T19:43:01.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormEgitmenler.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormEgitmenler.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\FormEgitmenler.Designer.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormEgitmenler.Designer.cs",
+              "RelativeToolTip": "UI\\FormEgitmenler.Designer.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAawEAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:42:13.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormEgitmenler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormEgitmenler.cs",
+              "RelativeDocumentMoniker": "UI\\FormEgitmenler.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\FormEgitmenler.cs [Design]",
+              "RelativeToolTip": "UI\\FormEgitmenler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:42:12.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EGITMENLER.resx",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\EGITMENLER.resx",
+              "RelativeDocumentMoniker": "UI\\EGITMENLER.resx",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\EGITMENLER.resx",
+              "RelativeToolTip": "UI\\EGITMENLER.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-26T19:41:59.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EGITMENLER.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\EGITMENLER.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\EGITMENLER.Designer.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\EGITMENLER.Designer.cs",
+              "RelativeToolTip": "UI\\EGITMENLER.Designer.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAawKoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:40:50.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EGITMENLER.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\EGITMENLER.cs",
+              "RelativeDocumentMoniker": "UI\\EGITMENLER.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\UI\\EGITMENLER.cs [Design]",
+              "RelativeToolTip": "UI\\EGITMENLER.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:40:48.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DataLayer.cs",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\DL\\DataLayer.cs",
+              "RelativeDocumentMoniker": "DL\\DataLayer.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\DL\\DataLayer.cs",
+              "RelativeToolTip": "DL\\DataLayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:38:44.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MYEDU.csproj.user",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\MYEDU.csproj.user",
+              "RelativeDocumentMoniker": "MYEDU.csproj.user",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\MYEDU.csproj.user",
+              "RelativeToolTip": "MYEDU.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-06-26T19:38:14.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MYEDU",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\MYEDU.csproj",
+              "RelativeDocumentMoniker": "MYEDU.csproj",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\MYEDU.csproj",
+              "RelativeToolTip": "MYEDU.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-26T19:36:38.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-26T19:34:50.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BLogic.cs",
+              "DocumentMoniker": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\BL\\BLogic.cs",
+              "RelativeDocumentMoniker": "BL\\BLogic.cs",
+              "ToolTip": "C:\\Users\\basam\\OneDrive\\Desktop\\MYEDU\\MYEDU\\BL\\BLogic.cs",
+              "RelativeToolTip": "BL\\BLogic.cs",
+              "ViewState": "AQIAAHIBAAAAAAAAAAAAwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:29:36.146Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
